@@ -51,7 +51,7 @@ O objetivo desta API é facilitar o acesso a informações atualizadas sobre pre
 
 A API utiliza a biblioteca `BeautifulSoup` para realizar web scraping na página oficial da **Petrobras**:
 
-- **Gasolina e Diesel**: Os preços são obtidos diretamente da [tabela de preços da Petrobras](https://precos.petrobras.com.br/).
+- **Gasolina e Diesel**: Os preços são obtidos diretamente da [tabela de preços da Petrobras](https://precos.petrobras.com.br/sele%C3%A7%C3%A3o-de-estados-gasolina).
 - **Etanol e Energia Elétrica**: Esses preços são fixados, mas podem ser atualizados conforme necessário.
 
 ### Detalhes técnicos:

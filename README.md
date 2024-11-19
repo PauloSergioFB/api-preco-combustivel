@@ -10,6 +10,18 @@ O objetivo desta API é facilitar o acesso a informações atualizadas sobre pre
 
 ---
 
+## 🌐 API Online
+
+A API está disponível publicamente no seguinte endereço:
+
+[https://api-preco-combustivel.onrender.com](https://api-preco-combustivel.onrender.com)
+
+Você pode acessar a documentação interativa da API diretamente em:
+
+[https://api-preco-combustivel.onrender.com/docs](https://api-preco-combustivel.onrender.com/docs)
+
+---
+
 ## 🚀 Setup Local (Como Rodar)
 
 ### Pré-requisitos

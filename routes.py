@@ -155,6 +155,6 @@ def post_get_fuel_price(data: FuelPrice):
         case "gasolina": price = get_gasoline_price(data.state.value)
         case "diesel": price = get_diesel_price(data.state.value)
         case "etanol": price = get_ethanol_price()
-        case "energy": price = get_energy_price()
+        case "energia": price = get_energy_price()
 
     return {"preco": price}
